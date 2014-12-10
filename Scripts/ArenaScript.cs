@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using System.Collections;
 
 public class ArenaScript : MonoBehaviour {
@@ -21,4 +21,3 @@ public class ArenaScript : MonoBehaviour {
 	
 	}
 }
-
