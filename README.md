@@ -1,3 +1,6 @@
 Volfied
 =======
-Open source game
+Authors:
+
+Prodan Tudor 
+prodan_tudor@yahoo.com
