@@ -4,7 +4,7 @@ using System.Collections;
 public class ArenaScript : MonoBehaviour {
 
 
-	void Start () {
+	void Start () {//edit
         //resize the arena so it fits the whole screen no matter the device
         float factor = Camera.main.orthographicSize;
 
